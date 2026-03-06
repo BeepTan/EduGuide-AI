@@ -12,6 +12,8 @@
 
 EduGuide AI is an interactive learning companion built with React, Vite, and the **Google Gemini API**. Designed for both students and parents, it adapts its teaching style, complexity, and analogies based on your specific learning profile. Whether you need a high-level roadmap, a deep dive into complex topics, or a hands-free voice conversation, EduGuide AI acts as your personal tutor.
 
+<a href="https://eduguideai.tankze246.workers.dev">Website with functional feature deployed on Cloudflare (Functional, but there is quota restriction due to Free API Key). </a>
+
 ## ✨ Key Features
 
 - **🎯 Personalized Learning Profiles:** Choose your role (Student or Parent), specify the target age/grade, pick a topic, and set your current understanding level to receive perfectly tailored explanations.
