@@ -33,7 +33,7 @@ EduGuide AI is an interactive learning companion built with React, Vite, and the
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BeepTan/EduGuide-AI.git
    cd EduGuide-AI
    ```
 
