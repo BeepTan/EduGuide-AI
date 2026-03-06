@@ -1,0 +1,7 @@
+{
+  "name": "EduGuide AI",
+  "description": "A personalized educational assistant for students and parents. It generates tailored learning roadmaps and provides guided teaching assistance using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
